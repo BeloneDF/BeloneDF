@@ -14,7 +14,7 @@ export const userDetails = {
   techStack: {
     languages: ["TypeScript", "Python", "Javascript"],
     databases: ["PostgreSQL", "MongoDB"],
-    frameworksAndTools: ["Node.js", "Next.js", "React", "React Native", "Flask", "Canva", "Figma", "Trello", "Bun"]
+    frameworksAndTools: ["Node.js", "Next.js", "React", "React Native", "Flask", "Python", "Figma", "Trello", "Bun"]
   }
 };
 ```
@@ -23,14 +23,15 @@ export const userDetails = {
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40" height="40"/>
-  <img src="https://bun.sh/logo.svg" alt="Bun" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="50" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="50" height="50"/>
+  <img src="https://bun.sh/logo.svg" alt="Bun" width="50" height="50"/>
 </p>
 
 <p align="center">
