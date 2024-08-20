@@ -29,6 +29,8 @@ export const userDetails = {
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belonedf&theme=tokyonight" alt="Profile Details" />
 </p>
+
 ## 🔗 Contact
 
 [![email](https://img.shields.io/badge/email-000?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:belonezf@proton.me)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belonedordetefraga/) [![instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/belone.fraga)
+[![whatsapp](https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/5548991748301)
