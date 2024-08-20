@@ -21,6 +21,19 @@ export const userDetails = {
 
 ## ⚙️ Tech stack:
 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png" alt="Trello" width="40" height="40"/>
+  <img src="https://bun.sh/logo.svg" alt="Bun" width="40" height="40"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=belonedf&show_icons=true&theme=dark" alt="Belone's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belonedf&layout=compact&theme=dark" alt="Top Langs" />
